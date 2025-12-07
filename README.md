@@ -1,16 +1,13 @@
-# asherassignment
+Flutter Registration Screens
 
-A new Flutter project.
+This Flutter project contains basic authentication screens:
 
-## Getting Started
+Sign In – User login with email and password.
+Sign Up – New user registration.
+Forgot Password – Password recovery via email.
+Verify Email – Email verification after registration.
+Features:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uses Device Preview for testing responsive layouts
+Includes image assets for UI elements and backgrounds.
+Built with Flutter’s Material components and standard navigation. Easy to integrate and extend for any Flutter project.
